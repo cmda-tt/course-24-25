@@ -24,7 +24,7 @@ const data = [
 ];
 
 
-/* Filter by age, normalize capitals in names, convert ages to numbers, remove work.
+/* Normalize capitals in names, convert ages to numbers, extract current employer from curriculum.
 
     const data = [
         {

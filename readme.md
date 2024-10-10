@@ -42,8 +42,10 @@ Na 6 weken lever je uiteindelijk het volgende op dat we in een mondeling gesprek
 
 ## Communicatie
 
+Voeg de _Tech track_ course toe aan DLO via de [courseselector][courseselector]. De _code_ om het tech-track Microsoft team te joinen kun je vinden bij de _announcements_.
+
 - [GitHub][github] — Info, planning, opdrachten, slides, voorbeelden.
-- [Microsoft Teams][teams] (**Tech-Track** team) — Info, overleg, faq, updates.
+- [Microsoft Teams][teams] — Info, overleg, faq, updates.
 - [Brightspace (DLO)][dlo] - Beoordelingen, cijfers, inleverslots.
 
 ## Doelen
@@ -101,8 +103,6 @@ Tenzij anders vermeld, is de code [MIT][mit] © [Berry Nieskens][berry-gh] ([**@
 [banner]: https://cmda-tt.github.io/course-20-21/img/banner.svg
 [synopsis]: #synopsis
 [cmda]: https://github.com/cmda
-[roberrrt-s-gh]: https://github.com/roberrrt-s
-[vijnv-gh]: https://github.com/vijnv
 [laura-gh]: https://github.com/LauraBenvenuti
 [dandevri-gh]: https://github.com/dandevri
 [berry-gh]: https://github.com/bnieskens
@@ -113,3 +113,4 @@ Tenzij anders vermeld, is de code [MIT][mit] © [Berry Nieskens][berry-gh] ([**@
 [studiegids]: https://studiegids.hva.nl/co/cmd-vt/100000321/109845
 [dlo]: https://dlo.mijnhva.nl/d2l/home
 [schedule]: schedule.md
+[courseselector]: https://courseselector.mijnhva.nl/

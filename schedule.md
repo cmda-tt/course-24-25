@@ -25,7 +25,10 @@
 | 24th October | Thursday | Submit your ideas (12:00)                                        | Danny, Laura  |
 | 25th October | Friday   | Setting up your project with Svelte, introduction to D3          | Danny         |
 
-**Note**: Fall recess between Week 2 and Week 3 (28 Oct - 1 Nov)
+## Week XX - Fall Recess
+
+> [!NOTE]  
+> Fall recess between Week 2 and Week 3 (28 Oct - 1 Nov).
 
 ## Week 3 - Visualization with D3
 

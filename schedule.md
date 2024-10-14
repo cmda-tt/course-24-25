@@ -14,14 +14,14 @@
 | 14th October | Monday  | Welcome; Playing with data                                | Danny & Laura |
 | 15th October | Tuesday | Functional usage of JavaScript: filter, map, reduce (f2f) | Laura         |
 | 18th October | Friday  | Q&A ES6                                                   | Berry         |
-| 18th October | Friday  | Filter, map, reduce; Researching datasets                 | Danny         |
+| 18th October | Friday  | Filter, map, reduce; Researching datasets & Sketching ideas| Danny         |
 
 ## Week 2 - Architecture
 
 | Date         | Day      | Subject                                                          | Teachers      |
 | ------------ | -------- | ---------------------------------------------------------------- | ------------- |
-| 21st October | Monday   | Guest? Researching datasets & Sketching ideas                    | Laura & Danny |
-| 22nd October | Tuesday  | 13:40-15:20 TTH02B21 Workshop: Objects, libraries and APIs (f2f) | Laura         |
+| 21st October | Monday   | Objects, libraries and APIs (f2f) - Datasets & Ideas Show & Tell | Laura & Danny |
+| 22nd October | Tuesday  | 13:40-15:20 TTH02B21 Guest; Researching datasets & Sketching ideas| Laura         |
 | 24th October | Thursday | Submit your ideas (12:00)                                        | Danny, Laura  |
 | 25th October | Friday   | Setting up your project with Svelte, introduction to D3          | Danny         |
 

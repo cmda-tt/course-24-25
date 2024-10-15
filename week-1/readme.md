@@ -30,7 +30,10 @@ Zelfstudie om verder aan de slag te gaan met de opdrachten en de stof over funct
 
 ### Vrijdag
 
-Reviewen we het materiaal wat we de afgelopen lessen hebben besproken en beantwoorden we eventueel vragen over onderwerpen en opdrachten die nog niet duidelijk zijn. De rest van de les gaan we beginnen met het onderzoeken van een dataset en het conceptualiseren van je idee voor een interactieve visualisatie.
+Reviewen we het materiaal wat we de afgelopen lessen hebben besproken en beantwoorden we eventueel vragen over onderwerpen en opdrachten die nog niet duidelijk zijn. We geven ook een introductie in het gebruik van Modules in JavaScript. De rest van de les gaan we beginnen met het onderzoeken van een dataset en het conceptualiseren van je idee voor een interactieve visualisatie.
+
+- [MDN - JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [JavaScript.info - Modules Introduction](https://javascript.info/modules-intro)
 
 ## Resources
 

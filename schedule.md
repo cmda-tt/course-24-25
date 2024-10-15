@@ -20,8 +20,8 @@
 
 | Date         | Day      | Subject                                                          | Teachers      |
 | ------------ | -------- | ---------------------------------------------------------------- | ------------- |
-| 21st October | Monday   | Objects, libraries and APIs (f2f) - Datasets & Ideas Show & Tell | Laura & Danny |
-| 22nd October | Tuesday  | 13:40-15:20 TTH02B21 Guest; Researching datasets & Sketching ideas| Laura         |
+| 21st October | Monday   | Guest; Datasets & Ideas Show & Tell                              | Laura & Danny |
+| 22nd October | Tuesday  | 13:40-15:20 TTH02B21 Objects, libraries and APIs; Researching datasets & Sketching ideas| Laura         |
 | 24th October | Thursday | Submit your ideas (12:00)                                        | Danny, Laura  |
 | 25th October | Friday   | Setting up your project with Svelte, introduction to D3          | Danny         |
 

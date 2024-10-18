@@ -1,6 +1,10 @@
 # Voorbeelden
 
-De afgelopen jaren zijn er tijdens de tech-track al veel mooie interactieve visualisaties gemaakt. Hier een aantal voorbeelden ter inspiratie:
+De afgelopen jaren zijn er tijdens de tech-track al veel mooie interactieve visualisaties gemaakt. Ook is er inspiratie gehaald uit andere websites en zijn er een paar goede startpunten om te zoeken naar datasets.
+
+## Studentenwerk
+
+Hier een aantal voorbeelden van studentenwerk van afgelopen jaar:
 
 <table>
   <tr valign="top">
@@ -15,3 +19,28 @@ De afgelopen jaren zijn er tijdens de tech-track al veel mooie interactieve visu
     <td width="25%"><a href="https://github.com/EmreT58"><strong>@Emre Taşköprü</strong></a> - <em>Een UFC fighter comparison website waarbij je 2 fighters uit de UFC top 10 Pound for Pound fighters kan selecteren om statistieken door middel van datavisualisaties met elkaar te vergelijken.</em><br><a href="https://tranquil-cascaron-0738ad.netlify.app/"><img src="images/examples/voorbeeld_emre.png"></a></td>
   </tr>
 </table>
+
+## Inspiratie
+
+Hier een aantal voorbeelden van interactieve visualisaties:
+
+* [Pudding.cool](https://pudding.cool/) - is een digitaal publicatie platform dat interactieve visuele essays maakt en custom infographics.
+* [Our World in Data](https://ourworldindata.org/) - is een non-profit organisatie die onderzoek doet naar de wereld en die kennis weergeeft in interactieve visualisaties.
+* [WJS Graphics](https://graphics.wsj.com/) - journalistieke platforms gebruiken vaak interactieve visualisaties bij hun artikelen. The Wall Street Journal maar ook dichter bij huis zoals bijv. [Follow the Money](https://www.ftm.nl/artikelen) of [NOS op 3](https://nos.nl/op3) (zie specials) doen dit veel.
+
+## Datasets
+
+Hier een aantal websites waar je kan beginnen met het zoeken naar relevante datasets. 
+
+Er zijn veel 'public api' repositories, vaak diensten bedrijven of services die hun data aanbieden als API:
+
+* https://rapidapi.com/
+* https://publicapis.dev/
+* https://github.com/public-apis/public-apis
+* https://www.kaggle.com/
+
+Je kan het ook wat dichter bij huis zoeken. Kijk bijvoorbeeld eens naar organisaties zoals overheden musea en gemeente:
+
+* Gemeente: https://data.amsterdam.nl/
+* Musea: http://data.rijksmuseum.nl/
+* Overheid: https://data.gov/

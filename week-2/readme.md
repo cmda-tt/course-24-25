@@ -15,9 +15,11 @@ We beginnen de week met een show en tell van je onderwerp en dataset. Kom naar d
 - Kies een dataset die **dynamisch** is en enigszins **groot** is met aardig wat (+10.000) datapunten.
 - Hoe is **de documentatie** van de API? Welke formaten geeft de API terug? Zijn er filter en query parameter opties?
 
+Het tweede deel van de les geeft Laura een interactieve Workshop over API's en objecten met Code Monkey Island. Tijdens de les spelen we een spel om de flow van een API uit te leggen en kijken we nog eens dieper naar de objectstructureren.
+
 ### Dinsdag
 
-Staat er een workshop libraries en API's op de planning. Tijdens de les doen we een oefening om de flow van een API uit te leggen en kijken we nog eens dieper naar de objectstructureren. Ook is er een gastcollege.
+Vandaag staat er een gastcollege van [Brianne de Deugd](https://github.com/briannededeugd) en [Yeliz Ünlü](https://github.com/yelunl) op de planning. Zij hebben vorig jaar de tech-track gedaan en komen over hun project vertellen.
 
 ### Woensdag & Donderdag
 
@@ -38,7 +40,7 @@ Een lijst met verdere verdiepende bronnen op basis van de stof die we deze week 
 
 ### Praktisch
 
-Curran Kelleher heeft op Youtube een goede course over datavis met D3. De code is hier en daar wat ouder maar de kernprincipes die hij uitlegt zijn nogsteeds zeer relevant.  Uit de [Datavis 2020](https://datavis.tech/datavis-2020/) course raden we je aan op de volgende dingen te bekijken: 
+Curran Kelleher heeft op Youtube een goede course over datavis met D3. De code is hier en daar wat ouder maar de kernprincipes die hij uitlegt zijn nogsteeds zeer relevant. Uit de [Datavis 2020](https://datavis.tech/datavis-2020/) course raden we je aan op de volgende dingen te bekijken:
 
 - [Preparing Data for Visualization](https://www.youtube.com/watch?v=8tJV3jMHyEQ)
 - [Visualization of current events](https://datavis.tech/visualizations-of-current-events/)

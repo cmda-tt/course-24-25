@@ -44,8 +44,7 @@
 | Date          | Day       | Subject                                             | Teachers       |
 | ------------- | --------- | --------------------------------------------------- | -------------- |
 | 11th November | Monday    | Documenting Tech Research                           | Danny & Laura  |
-| 12th November | Tuesday   | 11:10-12:50 Online: Time, Geospatial Apps, and JSON | Laura          |
-| 13th November | Wednesday | 14:30-16:10 Online: Time, Geospatial Apps, and JSON | Laura          |
+| 12th November | Tuesday   | Time, Geospatial Apps, and JSON                     | Laura       |
 | 15th November | Friday    | Asynchronous Programming                            | Danny (Berry?) |
 
 ## Week 5 - Peer Feedback and Deployment

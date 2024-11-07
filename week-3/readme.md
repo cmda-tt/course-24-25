@@ -26,6 +26,16 @@ Deze les ligt de focus op D3 scales, assen, domain en range. Om een dataset goed
 
 Zelfstudie om verder te werken aan je **visualisatie** concept. _Conceptueel_ denk verder na over interessante **filter en sorteer opties** die je de gebruiker kunt geven. Op _Technisch_ vlak probeer **een basic chart type** (bijv. een example) van D3 die past bij je concept werkend te maken. Het is oke als dat nog niet met dynamische data is van je API.
 
+### Vrijdag
+
+We gaan aan de slag met filteren en dynamische data. We kijken in wat meer detail naar het concept van D3 Data joins en enter(), update(), exit(). Daarmee doen we ook een opdracht over het filteren en updaten van een chart. Het laatste deel van de les kijken we nog naar events en transitions. De rest van de les kun je verder werken aan je eindopdracht en vragen stellen of om feedback vragen.
+
+- [Codepen - Data binding (voorbeeld)](https://codepen.io/dandevri/pen/KKOGJev)
+- [Codepen - Dynamic filtering (opdracht)](https://codepen.io/dandevri/pen/KKOGJev)
+- [Mike Bostock - Thinking with joins](https://bost.ocks.org/mike/join/)
+- [D3 in Depth - Data Joins](https://www.d3indepth.com/datajoins/)
+- [D3 in Depth - Transitions](https://www.d3indepth.com/transitions/)
+
 ## Resources
 
 Als je er de tijd voor hebt is het best tof om eens het originele paper van D3 Data-driven documents te lezen om te begrijpen hoe D3 tot stand is gekomen en wat het originele doel was van de library.

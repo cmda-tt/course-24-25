@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Data Joins</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <button>Update</button>
+    <div id="chart"></div>
+    <script>
+      let data = [22, 27, 30, 43, 52];
+
+      const button = document.querySelector("button");
+      const width = 300;
+      const barWidth = 40;
+      const height = 200;
+      const barMargin = 5;
+
+      const svg = d3
+        .select("#chart")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .style("border", "1px solid #ddd");
+
+      function render(data) {
+        const maxDataValue = d3.max(data);
+
+        const yScale = d3
+          .scaleLinear()
+          .domain([0, maxDataValue])
+          .range([0, height - barMargin]);
+
+        svg
+          .selectAll("rect")
+          .data(data)
+          .join(
+            (enter) =>
+              enter
+                .append("rect")
+                .attr("width", barWidth - barMargin)
+                .attr("x", (d, i) => i * barWidth)
+                .attr("y", (d) => height - yScale(d))
+                .attr("height", (d) => yScale(d))
+                .attr("fill", "steelblue"),
+
+            (update) =>
+              update
+                .attr("y", (d) => height - yScale(d))
+                .attr("height", (d) => yScale(d))
+                .attr("fill", "steelblue"),
+
+            (exit) => exit.remove()
+          );
+      }
+
+      render(data);
+
+      function updateData() {
+        data = [15, 25, 35, 45, 55, 65];
+
+        render(data);
+      }
+
+      button.addEventListener("click", () => {
+        updateData();
+      });
+    </script>
+  </body>
+</html>

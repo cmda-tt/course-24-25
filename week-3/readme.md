@@ -32,6 +32,7 @@ We gaan aan de slag met filteren en dynamische data. We kijken in wat meer detai
 
 - [Codepen - Data binding (voorbeeld)](https://codepen.io/dandevri/pen/KKOGJev)
 - [Codepen - Dynamic filtering (opdracht)](https://codepen.io/dandevri/pen/KKOGJev)
+- [Codepen - Dynamic filtering (uitwerking)](https://codepen.io/dandevri/pen/mdNzvzJ)
 - [Mike Bostock - Thinking with joins](https://bost.ocks.org/mike/join/)
 - [D3 in Depth - Data Joins](https://www.d3indepth.com/datajoins/)
 - [D3 in Depth - Transitions](https://www.d3indepth.com/transitions/)
